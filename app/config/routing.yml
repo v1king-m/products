@@ -1,0 +1,4 @@
+v1m_prod:
+    resource: "@v1mProdBundle/Controller/"
+    type:     annotation
+    prefix:   /
